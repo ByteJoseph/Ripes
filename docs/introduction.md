@@ -5,7 +5,7 @@ The following sections serve as an introduction to the main features of Ripes.
 
 ## The Editor Tab
 <p align="center">
-    <img src="https://github.com/mortbopet/Ripes/blob/master/resources/images/editortab.png" />
+    <img src="https://raw.githubusercontent.com/mortbopet/Ripes/blob/master/resources/images/editortab.png" />
 </p>
 The editor tab shows two code segments. On the left hand side, it is possible to write an assembly program written using the RISC-V RV32(I/M/C) instruction sets. Whenever any edits are performed in this assembly program - and no syntax errors are found - the assembly code will automatically be assembled and inserted into the simulator. If a C compiler has been registered, the `input type` may be set to `C`. It is then possible to write, compile and execute C-language programs within Ripes, see
 
