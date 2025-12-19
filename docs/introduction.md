@@ -29,7 +29,7 @@ With a program ready to be simulated, we may now move to the *Processor tab*.
 
 ## The Processor Tab
 <p align="center">
-    <img src="https://github.com/mortbopet/Ripes/blob/master/resources/images/processortab.png" />
+    <img src="https://github.com/mortbopet/Ripes/blob/master/resources/images/processortab.png?raw=true" />
 </p>
 The processor tab is where Ripes displays its view of the currently selected processor, as well as any additional information relevant to the execution.
 Apart from the processor view, the processor tab contains the following views:  
